@@ -6,3 +6,7 @@
     border-radius: 15%;
     padding: 5px;
   }
+  .custom-button{
+    padding:0.1rem 0.8rem;
+    font-size: 12px;
+  }
