@@ -5,8 +5,20 @@
     border: 2px solid grey;
     border-radius: 15%;
     padding: 5px;
-  }
-  .custom-button{
+}
+.custom-button{
     padding:0.1rem 0.8rem;
     font-size: 12px;
-  }
+}
+
+.ap_btn-custom-sm {
+    --bs-btn-padding-y: .25rem;
+    --bs-btn-padding-x: .5rem;
+    --bs-btn-font-size: .75rem;
+}
+.custom-height{
+    max-height:300px;
+}
+.custom-font{
+    font-size: 16px;
+}
